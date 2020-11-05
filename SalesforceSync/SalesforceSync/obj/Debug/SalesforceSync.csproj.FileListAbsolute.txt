@@ -1,0 +1,13 @@
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\bin\Debug\SalesforceSync.exe.config
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\bin\Debug\SalesforceSync.exe
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\bin\Debug\SalesforceSync.pdb
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\obj\Debug\SalesforceSync.csprojAssemblyReference.cache
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\obj\Debug\SalesforceSync.Form1.resources
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\obj\Debug\SalesforceSync.Properties.Resources.resources
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\obj\Debug\SalesforceSync.csproj.GenerateResource.cache
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\obj\Debug\SalesforceSync.csproj.CoreCompileInputs.cache
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\obj\Debug\SalesforceSync.exe
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\obj\Debug\SalesforceSync.pdb
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\bin\Debug\RestSharp.dll
+C:\Users\Jannik\source\repos\jannik1998\SalesforceSync\SalesforceSync\SalesforceSync\obj\Debug\SalesforceSync.csproj.CopyComplete
